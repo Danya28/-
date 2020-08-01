@@ -20,4 +20,4 @@
 
 ## Используемые библиотеки
 
-Matplotlib, Pandas.
+Matplotlib, Pandas, Seaborn.
